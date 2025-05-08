@@ -11,20 +11,18 @@
 
 // Note: Consider _ as a whitespace.
 
-
 #include <stdio.h>
 
 int main() {
-    int rows = 5;  
-    int start = 10; 
+    int i, j;
 
-    for (int i = 0; i < rows; i++) {
-        for (int j = 0; j < i; j++) {
-            printf("_ "); 
+    for (i = 0; i < 5; i++) {
+        for (j = 0; j < 4 - i; j++) {
+            printf("  ");
         }
 
-        for (int j = start - i; j <= 10; j++) {
-            printf("%d ", j); 
+        for (j = 10 - i; j <= 10; j++) {
+            printf("%d ", j);
         }
 
         printf("\n");
