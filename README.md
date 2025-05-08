@@ -10,5 +10,6 @@ que-5
 ![que-5](https://github.com/user-attachments/assets/64b5b0e7-cac3-4392-bd47-2eddd69edc32)
 que-6
 ![que-6](https://github.com/user-attachments/assets/0a51f4ef-e410-4999-b374-8e6c0e22f344)
-
+que-7
+![que-7 (2)](https://github.com/user-attachments/assets/2066b7c1-2fa3-4b9d-9032-561a3fd53402)
 
